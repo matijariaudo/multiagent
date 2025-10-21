@@ -1,4 +1,4 @@
-# LLM Agents Final Project
+# LLM Agents
 > AI-Powered Shopping Assistant
 
 Hi!
